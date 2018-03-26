@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /
+permalink: /_pages/
 title: <strong>Bottleneck</strong> Blaster
 description: <a href="">Universal Performance Optimization</a>
 
